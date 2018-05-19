@@ -1,0 +1,33 @@
+.container #head {
+    background-color:lightblue;
+    border-radius: 5px;
+    padding: 25px 0px 25px 0px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Comfortaa', cursive;
+}
+
+section {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: lightblue;
+    padding: 0px 0px 25px 0px;
+}
+
+.searchP {
+    padding: 3px 0px 3px 10px;
+    background-color: lightblue;
+    margin-bottom: 10px;
+}
+
+.searchP h2 {
+    font-size: 20px;    
+}
+
+label {
+    font-weight: bold;
+    font-family: 'Archivo Narrow', sans-serif;
+}
